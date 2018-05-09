@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">LBook</string>
+    <string name="wifiOn">wifi on</string>
+    <string name="wifiOff">wifi off</string>
+
+</resources>
